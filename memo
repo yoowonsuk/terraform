@@ -1,0 +1,6 @@
+shell python ruby perl powershell
+
+Ansible Chef Puppet SaltStack # idempotent
+
+terraform init plan apply destroy
+
